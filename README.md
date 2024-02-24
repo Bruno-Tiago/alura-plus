@@ -10,7 +10,7 @@ O 'Alura Plus' é um projeto de página web desenvolvido em HTML e CSS, inspirad
 
 ## Execução do projeto:
 
-https://mochila-de-viagem-olive-eight.vercel.app/
+https://alura-plus-liart-six.vercel.app/
 
 ## Feito por:
 
